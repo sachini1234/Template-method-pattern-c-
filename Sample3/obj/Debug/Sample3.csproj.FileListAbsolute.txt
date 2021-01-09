@@ -1,0 +1,7 @@
+C:\Users\USER\Documents\C##\Sample3\Sample3\bin\Debug\Sample3.exe.config
+C:\Users\USER\Documents\C##\Sample3\Sample3\bin\Debug\Sample3.exe
+C:\Users\USER\Documents\C##\Sample3\Sample3\bin\Debug\Sample3.pdb
+C:\Users\USER\Documents\C##\Sample3\Sample3\obj\Debug\Sample3.csprojAssemblyReference.cache
+C:\Users\USER\Documents\C##\Sample3\Sample3\obj\Debug\Sample3.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\C##\Sample3\Sample3\obj\Debug\Sample3.exe
+C:\Users\USER\Documents\C##\Sample3\Sample3\obj\Debug\Sample3.pdb
